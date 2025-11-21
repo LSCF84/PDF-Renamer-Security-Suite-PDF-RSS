@@ -12,7 +12,7 @@
 
 ## 🌟 Resumen del Proyecto
 
-**PDF Renamer Security Suite** es una solución completa de escritorio desarrollada en **Python** utilizando **Tkinter** y **Pandas**.
+**PDF Renamer Security Suite (PDF-RSS)** es una solución completa de escritorio desarrollada en **Python** utilizando **Tkinter** y **Pandas**.
 
 Su propósito es automatizar y simplificar el flujo de trabajo para el **renombrado por lotes** y la **protección con contraseña** de documentos PDF. La aplicación centraliza la preparación de datos, permitiendo al usuario generar plantillas de Excel, editar la información de los nuevos nombres y claves de acceso dentro de la misma interfaz, y finalmente procesar los archivos de forma segura.
 
@@ -61,7 +61,7 @@ El proyecto requiere librerías externas para la gestión de datos (Excel).
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/PDF-Renamer-Security-Suite
+    git clone https://github.com/LSCF84/PDF-Renamer-Security-Suite-PDF-RSS/
     cd PDF-Renamer-Security-Suite
     ```
 2.  **Instala dependencias**
